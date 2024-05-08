@@ -1,0 +1,4 @@
+name: KillBolt
+version: '${project.version}'
+main: org.sparnet.killbolt.KillBolt
+api-version: '1.8'
